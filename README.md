@@ -1,6 +1,5 @@
 <h2>Welcome!</h2>
 
-### About Andrew
 <p><b><em>Andrew</em></b> is software developer who recently obtained his B.S. in Computer Science from SUNY Old Westbury.</p>
 
 ### What's here?
