@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2>Welcome!</h2>
 
-<!--
-**asteph11/asteph11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Andrew
+<p><b><em>Andrew</em></b> is software developer who recently obtained his B.S. in Computer Science from SUNY Old Westbury.</p>
 
-Here are some ideas to get you started:
+### What's here?
+<p>This is Andrew's school project repositories. Currently contained within this Github are previous submissions to some of the larger projects that were required of us. Andrew chose to add only those projects which helped him to explore and learn about new technologies.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+Please feel free to navigate the open-source repositories contained here!
+For inquiries, you may contact [Andrew Stephens](mailto:stephensandrewryan@gmail.com?subject=Github%20Inquiry)
+  
